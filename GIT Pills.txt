@@ -1,7 +1,7 @@
 -- Comprobar el repositorio actual de GIT y cambiarlo
 
 git remote -v
-git remote set-url origin https://fjgutierrez@git.ng.bluemix.net/julio.arguello/npecom-hybris.git
+git remote set-url origin <repo>
 
 
 -- Cherry picking
